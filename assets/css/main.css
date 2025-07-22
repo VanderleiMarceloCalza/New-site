@@ -154,8 +154,8 @@ h6 {
 .pulsating-play-btn:before {
   content: "";
   position: absolute;
-  width: 100px;
-  height: 100px;
+  width: 120px;
+  height: 120px;
   animation-delay: 0s;
   animation: pulsate-play-btn 2s;
   animation-direction: forwards;
@@ -1176,7 +1176,7 @@ section,
 }
 
 .menu .menu-img {
-  width: 300px;
+  width: 250px;
   border-radius: 30%;
   float: left;
   border: 8px solid color-mix(in srgb, var(--default-color), transparent 90%);
