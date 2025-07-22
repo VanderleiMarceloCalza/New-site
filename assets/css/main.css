@@ -154,8 +154,8 @@ h6 {
 .pulsating-play-btn:before {
   content: "";
   position: absolute;
-  width: 120px;
-  height: 120px;
+  width: 100px;
+  height: 100px;
   animation-delay: 0s;
   animation: pulsate-play-btn 2s;
   animation-direction: forwards;
