@@ -1027,7 +1027,7 @@ section,
 # About Section
 --------------------------------------------------------------*/
 .about {
-  background: url("../img/about-bg.jpg") center center;
+  background: url("../img/events-bg.jpg") center center;
   background-size: cover;
   position: relative;
   padding: 80px 0;
@@ -1389,6 +1389,12 @@ section,
 /*--------------------------------------------------------------
 # Book A Table Section
 --------------------------------------------------------------*/
+.book-a-table { 
+background: url("../img/dividindoPao.png") center center;
+background-size: cover;
+position: relative;
+padding: 80px 0;
+}
 .book-a-table .reservation-img {
   min-height: 500px;
   background-size: cover;
