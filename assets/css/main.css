@@ -1182,6 +1182,10 @@ section,
   border: 8px solid color-mix(in srgb, var(--default-color), transparent 90%);
 }
 
+.menu .menu-img:hover {
+  transform: scale(1.10);
+}
+
 .menu .menu-content {
   margin-left: 95px;
   overflow: hidden;
